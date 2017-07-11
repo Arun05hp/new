@@ -1,0 +1,39 @@
+div.intro-header{
+	background-image: url("http://www.wallpapersbyte.com/wp-content/uploads/2015/12/Marina-Bay-Sands-Singapore-Architecture-Building-Night-WallpapersByte-com-1920x1080.jpg");
+	background-size: cover;
+	height: 700px;
+}
+div.jumbotron{
+	margin: 0 auto;
+	text-align: center;
+	background-color: transparent;
+	border: 0px
+}
+.jumbotron h1{
+	padding-top: 150px;
+}
+.jumbotron h1,h3{
+	color: white;
+}
+.jumbotron hr{
+	width: 26%;
+}
+footer .col-lg-12{
+	padding: 50px 0;
+}
+footer ul li{
+	font-weight: 700;
+}
+.banner{
+	background-image: url("https://wallpaperscraft.com/image/clouds_milky_way_eclipse_light_68883_1920x1080.jpg");
+	padding: 80px;
+}
+h2{
+	font-weight: 700;
+	color: white;
+	font-size: 32px;
+margin: 10px;
+}  
+img{
+	margin-top: 5px;
+}
